@@ -10,7 +10,7 @@
 ```
 
 ### Computer Science @ Appalachian State University
-**Cybersecurity Minor · GPA 3.5 · Expected May 2027**
+**Cybersecurity Minor · GPA 3.6 · Expected May 2027**
 
 [![Email](https://img.shields.io/badge/Email-senviskyec%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:senviskyec@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-senviskyec-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/senviskyec)
@@ -19,15 +19,13 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-Hey! I'm Evan — a CS student at App State focused on **cybersecurity**, **systems programming**, and **data science**. I'm interested in security auditing, software engineering, and eventually earning a master's degree in cybersecurity. Currently looking for a **2026 summer internship**.
-
-When I'm not writing code, I'm probably contributing to a Minecraft mod or thinking about Y86-64 pipelined processors.
+I am CS student at App State focused on **cybersecurity**, **systems programming**, and **data science**. I'm interested in security auditing, software engineering, and eventually earning a master's degree in cybersecurity.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -50,7 +48,7 @@ When I'm not writing code, I'm probably contributing to a Minecraft mod or think
 
 ---
 
-## 🚀 Projects
+## 🚀rojects
 
 ### 🔧 yess64 — Y86-64 Pipelined Processor Simulator *(C++)*
 A cycle-accurate simulation of a pipelined Y86-64 processor. Implemented the **Decode** and **Memory** stages including forwarding logic, hazard detection, and memory read/write operations.
@@ -58,25 +56,25 @@ A cycle-accurate simulation of a pipelined Y86-64 processor. Implemented the **D
 
 ---
 
-### 🕹️ Minecraft Mod — Java / Forge & Fabric
+### Minecraft Mod — Java / Forge & Fabric
 Built a fully functional Minecraft mod from scratch via self-study — custom blocks, items, GUIs, and event handlers. Maintained compatibility across API updates and wrote user-facing installation documentation.
 > `Java` `OOP` `Minecraft Forge` `Fabric API` `Full Lifecycle Development`
 
 ---
 
-### 🕷️ Competitive Intelligence Scraper — Sentinel Precision *(Python)*
+### Competitive Intelligence Scraper — Sentinel Precision *(Python)*
 Developed web scraping scripts to extract competitive data — MOZ Rank, Alexa Rank, estimated traffic, and tech stacks — from major online retailers. Analyzed results to surface market trends and strategic insights.
 > `Python` `Web Scraping` `Data Analysis` `BeautifulSoup / Requests`
 
 ---
 
-### 🔒 CIS Controls v8.1 Security Audit *(Cybersecurity Lab)*
+### CIS Controls v8.1 Security Audit *(Cybersecurity Lab)*
 Conducted a compliance audit of a university lab environment (IG2), assessing software asset management safeguards across the identify, protect, detect, and respond functions.
 > `CIS Controls v8.1` `Security Auditing` `Compliance` `Technical Writing`
 
 ---
 
-## 📚 Coursework
+## Coursework
 
 | Area | Courses |
 |------|---------|
@@ -86,7 +84,7 @@ Conducted a compliance audit of a university lab environment (IG2), assessing so
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -97,7 +95,7 @@ Conducted a compliance audit of a university lab environment (IG2), assessing so
 
 ---
 
-## 🎯 Currently
+## Currently
 
 - 🔭 Working on a Y86-64 pipeline simulator in C++
 - 🌱 Exploring cybersecurity auditing and penetration testing
@@ -107,7 +105,5 @@ Conducted a compliance audit of a university lab environment (IG2), assessing so
 ---
 
 <div align="center">
-
-*"Security is not a product, but a process."* — Bruce Schneier
 
 </div>
