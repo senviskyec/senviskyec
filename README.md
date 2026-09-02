@@ -21,7 +21,7 @@
 
 ## About
 
-CS student at App State with a focus on cybersecurity, systems programming, and data science. Currently working professionally with HTML and CRM platforms. Interested in security auditing, software engineering, and eventually a master's in cybersecurity.
+CS student at App State with a focus on planning, systems programming, and data science. Currently working professionally with HTML and CRM platforms. Interested in city planning, systems engineering, and eventually a master's in Urban Planning.
 
 ---
 
